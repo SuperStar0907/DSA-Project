@@ -1,4 +1,5 @@
-# DSA-Project-Team-31
+# DSA-Project
+
 ## Directory Management  
 The project is completely implemented in C.  
 ### File Structure  
